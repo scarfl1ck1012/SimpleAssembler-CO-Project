@@ -1,0 +1,7 @@
+Contribution
+
+Manan Saini - Binary to Int Convertor, R Type, I Type
+Achintya Shukla - Error Handling, J Type
+Abhay Gill - U Type, S Type , B Type
+Vansh Dokania - File Handling
+
